@@ -3,6 +3,8 @@ import GameplayKit
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
 
+    //This was made by my friend in China, if the language you cannot know, please go to https://translate.google.com/?sl=auto&tl=en&op=translate.
+    
     var bluePlayer: SKSpriteNode!
     var redPlayer: SKSpriteNode!
 
